@@ -1,0 +1,39 @@
+body{ 
+    background-color: aqua; 
+    margin: 0; 
+    padding: o;
+} 
+#topSection{ 
+    height: 30vh;   
+    width: 90%; 
+    border: solid purple 5px;
+    
+
+}  
+#navigation { 
+    font-size: 35px; 
+    display: flex; 
+    border: snow grey 3px; 
+    justify-content: space-evenly;
+}
+
+     
+ 
+
+#header{ 
+    color: green; 
+    justify-content: center; 
+    font-size: 25px;
+} 
+
+    
+    
+    
+
+
+ 
+#images{ 
+    width: 15%; 
+    justify-content: flex-end; 
+
+}
